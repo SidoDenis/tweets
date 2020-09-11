@@ -1,0 +1,15 @@
+C:\Users\Denis\source\repos\Tweets\Tweets\bin\Debug\Tweets.exe.config
+C:\Users\Denis\source\repos\Tweets\Tweets\bin\Debug\Tweets.exe
+C:\Users\Denis\source\repos\Tweets\Tweets\bin\Debug\Tweets.pdb
+C:\Users\Denis\source\repos\Tweets\Tweets\obj\Debug\Tweets.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Tweets\Tweets\obj\Debug\Tweets.Form1.resources
+C:\Users\Denis\source\repos\Tweets\Tweets\obj\Debug\Tweets.Properties.Resources.resources
+C:\Users\Denis\source\repos\Tweets\Tweets\obj\Debug\Tweets.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\Tweets\Tweets\obj\Debug\Tweets.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Tweets\Tweets\obj\Debug\Tweets.exe
+C:\Users\Denis\source\repos\Tweets\Tweets\obj\Debug\Tweets.pdb
+C:\Users\Denis\source\repos\Tweets\Tweets\bin\Debug\GMap.NET.Core.dll
+C:\Users\Denis\source\repos\Tweets\Tweets\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Denis\source\repos\Tweets\Tweets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Denis\source\repos\Tweets\Tweets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Denis\source\repos\Tweets\Tweets\obj\Debug\Tweets.csproj.CopyComplete
